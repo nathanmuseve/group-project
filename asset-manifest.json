@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/group-project/static/css/main.d6d27816.css",
+    "main.js": "/group-project/static/js/main.e852d8d1.js",
+    "static/js/453.43a8eb08.chunk.js": "/group-project/static/js/453.43a8eb08.chunk.js",
+    "static/media/manag7.jpg": "/group-project/static/media/manag7.2201afa06392c845b7db.jpg",
+    "static/media/manag3.jpg": "/group-project/static/media/manag3.e79add78e06ff6ab638b.jpg",
+    "static/media/manag5.jpg": "/group-project/static/media/manag5.a77f92bb012b13972d16.jpg",
+    "static/media/manag8.jpg": "/group-project/static/media/manag8.6743806f061a1898441c.jpg",
+    "static/media/typ.jpg": "/group-project/static/media/typ.89b58110c901c4d6502e.jpg",
+    "static/media/manag1.jpg": "/group-project/static/media/manag1.43cf891dac826ab96178.jpg",
+    "static/media/manag4.webp": "/group-project/static/media/manag4.ac30e21827bb9510ad66.webp",
+    "static/media/dotted.jpg": "/group-project/static/media/dotted.f5839fc2705b48bcc8d0.jpg",
+    "static/media/printer.jpg": "/group-project/static/media/printer.92ff6aaa3657d65bb57e.jpg",
+    "static/media/manag6.webp": "/group-project/static/media/manag6.08e8d490094f71e174cf.webp",
+    "static/media/manag.webp": "/group-project/static/media/manag.9acae4c63b96e56d6809.webp",
+    "static/media/manag2.webp": "/group-project/static/media/manag2.8c1289ca53908c555a4f.webp",
+    "static/media/lap.jpg": "/group-project/static/media/lap.21702914ab07e9791483.jpg",
+    "index.html": "/group-project/index.html",
+    "main.d6d27816.css.map": "/group-project/static/css/main.d6d27816.css.map",
+    "main.e852d8d1.js.map": "/group-project/static/js/main.e852d8d1.js.map",
+    "453.43a8eb08.chunk.js.map": "/group-project/static/js/453.43a8eb08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6d27816.css",
+    "static/js/main.e852d8d1.js"
+  ]
+}
