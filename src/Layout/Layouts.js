@@ -10,7 +10,6 @@ export default function Layouts() {
           <NavLink  className="text-white capitalize pr-4 text-sm font-sans font-bold hover:text-teal-400 hover:underline hover:transition-all" to="why-kenya">WhyKenya</NavLink>
           <NavLink className="text-white capitalize pr-4 text-sm font-sans font-bold hover:text-teal-400 hover:underline hover:transition-all" to="our-history">OurHistory</NavLink>
           <NavLink className="text-white capitalize pr-4 text-sm font-sans font-bold hover:text-teal-400 hover:underline hover:transition-all" to="prices">Prices</NavLink>
-          <NavLink className="text-white-400  capitalize pr-4 text-sm font-sans font-bold hover:text-teal-400 hover:underline hover:transition-all" to="groups">Groups</NavLink>
         </nav>
         <NavLink className="text-black capitalize px-7 py-2 text-sm font-sans  rounded-md bg-teal-400 hover:bg-teal-600 hover:text-white hover:transition-all" to="contact-us" >Contact Us</NavLink>
       </header>

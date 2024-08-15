@@ -2,7 +2,7 @@
 import News from "./News";
 
 
-export default function Alvin() {
+export default function Feeds() {
   return (
     <div className="py-8">
       <div className="px-10  items-centre justify-centre">

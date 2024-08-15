@@ -1,5 +1,5 @@
 
-import Alvin from "./Alvin"
+import Feeds from "./Feeds"
 import Connect from "./Connect"
 import Forms from "../Forms"
 import Footer from "../Footer"
@@ -8,7 +8,7 @@ export default function About() {
     <div>
     <div className="">
       <Connect />
-      <Alvin />
+      <Feeds />
       <Forms />
       <Footer />
     </div>
